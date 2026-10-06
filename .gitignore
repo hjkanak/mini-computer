@@ -1,0 +1,6 @@
+build/
+mini_computer
+*.o
+*.log
+/program_byte
+/data_byte
